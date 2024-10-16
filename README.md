@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Machine Learning Engineer from Spain 🇪🇸</h3>
 
 - 📚 Graduated in Computer Engineering and Master's Degree in Artificial Intelligence
-- 🔭 I'm a PhD student at @PRHLT from Universidad Politécnica de Valencia
+- 🔭 I'm a PhD Student at @PRHLT from Universidad Politécnica de Valencia
 - 📫 How to reach me **ljmarten@prhlt.upv.es**
 
 <h3 align="left">Connect with me:</h3>
