@@ -5,7 +5,7 @@
 - 🔭 I'm a PhD Student at PRHLT from Universidad Politécnica de Valencia
 - 📫 How to reach me at UPV [**ljmarten@prhlt.upv.es**](mailto:ljmarten@prhlt.upv.es)
 - 👨‍💻 All of my projects are available in my [**portfolio**](https://ljmtendero.github.io/simplefolio/)
-- 📄 Know about my experiences [My résumé](https://ljmtendero.github.io/simplefolio/cv.pdf)
+- 📄 Know about my experiences [[**Résumé**]](https://ljmtendero.github.io/simplefolio/cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
