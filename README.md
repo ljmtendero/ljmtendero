@@ -3,7 +3,7 @@
 
 - 📚 Graduated in Computer Engineering and Master's Degree in Artificial Intelligence
 - 🔭 I'm a PhD Student at @PRHLT from Universidad Politécnica de Valencia
-- 📫 How to reach me **ljmarten@prhlt.upv.es**
+- 📫 How to reach me at UPV **ljmarten@prhlt.upv.es**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
