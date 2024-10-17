@@ -2,8 +2,10 @@
 <h3 align="center">A passionate Machine Learning Engineer from Spain 🇪🇸</h3>
 
 - 📚 Graduated in Computer Engineering and Master's Degree in Artificial Intelligence
-- 🔭 I'm a PhD Student at @PRHLT from Universidad Politécnica de Valencia
-- 📫 How to reach me at UPV **ljmarten@prhlt.upv.es**
+- 🔭 I'm a PhD Student at PRHLT from Universidad Politécnica de Valencia
+- 📫 How to reach me at UPV [**ljmarten@prhlt.upv.es**](mailto:ljmarten@prhlt.upv.es)
+- 👨‍💻 All of my projects are available in my [**portfolio**](https://ljmtendero.github.io/simplefolio/)
+- 📄 Know about my experiences [My résumé](https://ljmtendero.github.io/simplefolio/cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
